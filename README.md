@@ -19,7 +19,7 @@ This README provides an overview of an ML project for heart disease prediction, 
 
 ## Methodology
 
-![image](https://github.com/sehajbirmann/Heart-Attack-Prediction/assets/72991473/7164fb1c-6310-4d25-91c3-514d9d300451)
+![265222086-7164fb1c-6310-4d25-91c3-514d9d300451](https://github.com/da111003/da111003-Heart-Attack-Prediction/assets/79132054/b5d9ac40-afcb-44d5-ad9f-5d058bd15db1)
 
 ### 1. Data Collection
 
