@@ -79,7 +79,7 @@ The model generates predictions in the form of binary values:
 
 ## Live Link
 
-A live version of this heart disease prediction system is available for interactive use. You can access it here -> [Google_Colaboratory_Link](https://colab.research.google.com/drive/1Q2ioXVZ3SUF2fxXMwqzv1ePMEU-8OUOP?usp=drive_link).
+A live version of this heart disease prediction system is available for interactive use. You can access it here -> [Google_Colaboratory_Link](https://colab.research.google.com/drive/1m4n_bBWjVpCvCxf0LzX3wAnnlcwl6EZN).
 
 
 
