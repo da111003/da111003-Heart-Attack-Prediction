@@ -81,5 +81,17 @@ The model generates predictions in the form of binary values:
 
 A live version of this heart disease prediction system is available for interactive use. You can access it here -> [Google_Colaboratory_Link](https://colab.research.google.com/drive/1m4n_bBWjVpCvCxf0LzX3wAnnlcwl6EZN).
 
+## License 
+
+This project is licensed under the MIT License.
+
+## Contact 
+
+You can reach me via email at <aggarwald241@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/deepakaggarwal111003/). Feedback, suggestions, and opportunities for collaboration are always welcome!
+
+Thank you for visiting. Enjoy exploring the projects!
+
+
+
 
 
