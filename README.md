@@ -47,7 +47,7 @@ The results of the model testing phase were analyzed to determine the accuracy o
 The dataset used in this project dates back to 1988 and comprises data from four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, but our analysis focused on a subset of 14 attributes. The primary target attribute is "target," which indicates the presence of heart disease in patients. A value of 0 represents no disease, while 1 indicates the presence of disease.
 
 ### Significance
-Predicting heart disease is of paramount importance in healthcare. Early detection can lead to timely interventions and improved patient outcomes. This projectserves as a valuable resource for building predictive models to assist medical professionals in identifying individuals at risk of heart disease.
+Predicting heart disease is of paramount importance in healthcare. Early detection can lead to timely interventions and improved patient outcomes. This project serves as a valuable resource for building predictive models to assist medical professionals in identifying individuals at risk of heart disease.
 
 ### Background
 Understanding the context of this dataset is crucial. Cardiovascular diseases are a leading cause of death worldwide. By leveraging machine learning to predict heart disease, we aim to contribute to early diagnosis and prevention.
