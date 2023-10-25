@@ -35,7 +35,7 @@ The machine learning model selected for this project is logistic regression, a b
 
 ### 4. Model Testing
 
-After training, the logistic regression model was tested using a separate dataset to evaluate its performance. The testing dataset was split from the original dataset, ensuring that it was not used during the training phase. The model's predictions were compared to the actual target values in the testing dataset to assess its accuracy which came to about 85%.
+After training, the logistic regression model was tested using a separate dataset to evaluate its performance. The testing dataset was split from the original dataset, ensuring that it was not used during the training phase. The model's predictions were compared to the actual target values in the testing dataset to assess its accuracy which came to about 82%.
 
 ### 5. Result Analysis
 
