@@ -1,7 +1,7 @@
 # Heart Attack Prediction
 
 ## Introduction
-This README provides an overview of an ML project for heart disease prediction, along with key information on its attributes and the machine learning model used for prediction. The dataset contains information from includes four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It consists of 76 attributes, but all published experiments refer to using a subset of 14 of them. The primary target attribute is "target," which indicates the presence of heart disease in the patient. It is an integer value where 0 represents no disease and 1 represents the presence of disease.
+This README provides an overview of an ML project for heart disease prediction, along with key information on its attributes and the machine learning model used for prediction. The dataset contains information which includes four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It consists of 76 attributes, but all published experiments refer to using a subset of 14 of them. The primary target attribute is "target," which indicates the presence of heart disease in the patient. It is an integer value where 0 represents no disease and 1 represents the presence of disease.
 
 ## Machine Learning Details
 - Language Used: Python.
